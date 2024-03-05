@@ -1,0 +1,34 @@
+﻿<Window x:Class="MVVMtesting.View.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVMtesting.View"
+        xmlns:utils="clr-namespace:MVVMtesting.Utilities"
+        mc:Ignorable="d"
+        Title="Window2" 
+        Height="450" 
+        Width="800"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen">
+    
+    <Grid>
+        <TextBlock 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center"
+            Text="OderSo2"
+            FontSize="40"
+            FontFamily="Livvic">
+        </TextBlock>
+
+        <Button
+            Height="40"
+            Width="150"
+            Margin="323,241,327,153"
+            Content="Home"
+            Command="{Binding Window1Command}">
+        </Button>
+    </Grid>
+</Window>
+

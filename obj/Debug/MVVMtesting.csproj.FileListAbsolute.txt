@@ -1,0 +1,15 @@
+C:\Users\mason\Desktop\MVVMtesting\bin\Debug\MVVMtesting.exe.config
+C:\Users\mason\Desktop\MVVMtesting\bin\Debug\MVVMtesting.exe
+C:\Users\mason\Desktop\MVVMtesting\bin\Debug\MVVMtesting.pdb
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting.csproj.AssemblyReference.cache
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MainWindow.g.cs
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\App.g.cs
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting_MarkupCompile.cache
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting_MarkupCompile.lref
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MainWindow.baml
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting.g.resources
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting.Properties.Resources.resources
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting.csproj.GenerateResource.cache
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting.csproj.CoreCompileInputs.cache
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting.exe
+C:\Users\mason\Desktop\MVVMtesting\obj\Debug\MVVMtesting.pdb
